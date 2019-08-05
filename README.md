@@ -1,2 +1,2 @@
 # javaBilling
-Simple Java Application with three different price points.
+Simple Java application with three different pricing parameters.
